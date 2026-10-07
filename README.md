@@ -2,10 +2,10 @@
 
 ## Prompt Portfolio & AI-Assisted Research
 
-**Student:** Arun Bhardwaj  
-**Course:** Introduction to Artificial Intelligence and Machine Learning  
-**Selected Company:** Zomato  
-**Business Problem:** Customer Support Automation using Generative AI / LLMs  
+**Student:** Arun Bhardwaj
+**Course:** Introduction to Artificial Intelligence and Machine Learning
+**Selected Company:** Zomato
+**Business Problem:** Customer Support Automation using Generative AI / LLMs
 **Assessment:** Part B — Prompt Portfolio & AI-Assisted Research
 
 ---
@@ -80,14 +80,14 @@ A major framework used throughout the portfolio is:
 
 ## 📂 Repository Contents
 
-| File / Folder | Description |
-|---|---|
-| `Advanced_Prompt_Engineering_Part_B_25_Prompts_COMPLETE.docx` | Complete 25-prompt portfolio |
-| `Advanced_Prompt_Engineering_Part_B_Colab_Notebook.ipynb` | Google Colab notebook containing reproducible checks and demonstrations |
-| `README.md` | Project documentation |
-| `screenshots/` | Prompt and Colab evidence screenshots |
-| `references/` | Research references and source-verification material |
-| `presentation/` | PPT/PDF presentation, if applicable |
+| File / Folder                                                 | Description                                                             |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| `Advanced_Prompt_Engineering_Part_B_25_Prompts_COMPLETE.docx` | Complete 25-prompt portfolio                                            |
+| `Advanced_Prompt_Engineering_Part_B_Colab_Notebook.ipynb`     | Google Colab notebook containing reproducible checks and demonstrations |
+| `README.md`                                                   | Project documentation                                                   |
+| `screenshots/`                                                | Prompt and Colab evidence screenshots                                   |
+| `references/`                                                 | Research references and source-verification material                    |
+| `presentation/`                                               | PPT/PDF presentation, if applicable                                     |
 
 ---
 
@@ -269,5 +269,5 @@ The portfolio emphasizes structured prompting, prompt refinement, source verific
 
 ## 👨‍🎓 Student
 
-**Arun Bhardwaj**  
+**Arun Bhardwaj**
 **Course: Introduction to Artificial Intelligence and Machine Learning**
